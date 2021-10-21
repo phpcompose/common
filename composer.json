@@ -1,5 +1,5 @@
 {
-    "name": "phpcompose/invocation",
+    "name": "phpcompose/common",
     "description": "Simple function/method invoker for php",
     "type": "library",
     "autoload": {
