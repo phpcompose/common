@@ -1,0 +1,20 @@
+{
+    "name": "phpcompose/invocation",
+    "description": "Simple function/method invoker for php",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Compose\\Common\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alamin",
+            "email": "al.ahmed@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "^9.3"
+    }
+}
